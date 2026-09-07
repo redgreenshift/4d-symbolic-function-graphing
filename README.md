@@ -11,8 +11,6 @@ Its expressions can be evaluated numerically using supplied variable values, whi
 
 It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of the [Smalltalk-80 programming language](https://wiki.squeak.org/squeak/373).
 
-This change set was developed with Squeak 2.8alpha. It may require modifications to work with current Squeak versions, but it should work without modification in a Squeak 2.8 environment.
-
 ## Cartesian:
 
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/plane.gif)
@@ -61,7 +59,7 @@ The change set includes:
 
 ## Historical Context
 
-This project was developed on the Squeak 2.8alpha platform around 2000. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is not under active development.
+This project was developed using Squeak 2.8alpha around 2000. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions, but it is expected to work without modification in a Squeak 2.8 environment.
 
 The `.cs` file is a Squeak change set, not C# source code.
 
