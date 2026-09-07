@@ -1,5 +1,9 @@
 # Symbolic Function Graphing
 
+[![Platform: Squeak 2.8alpha](https://img.shields.io/badge/platform-Squeak%202.8alpha-4B6B8A)](https://squeak.org/)
+[![Language: Smalltalk 80](https://img.shields.io/badge/language-Smalltalk_80-596706)](https://en.wikipedia.org/wiki/Smalltalk)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 An archived Squeak change set demonstrating symbolic expressions, symbolic differentiation, N-dimensional functions, transformations, and real-time 4D graphing.
 
 ## Contents
