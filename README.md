@@ -7,7 +7,32 @@
 
 An archived Squeak change set demonstrating symbolic expressions, symbolic differentiation, N-dimensional functions, transformations, and real-time 4D graphing.
 
+## Cartesian:
+
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/plane.gif)
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/XYZGraph2.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-wave.gif)
+
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/semicircle.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/semicircle_transform.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/cartesian-hypersphere.gif)
+
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/sin.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/sin_transform.gif)
+
+
+## Polar:
+
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/sphere.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/hypersphere.gif)
+
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar1.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar2.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar3.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar4.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar5.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar6.gif)
+
 
 ## Contents
 
