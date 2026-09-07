@@ -31,13 +31,13 @@ An archived Squeak change set demonstrating symbolic expressions, symbolic diffe
 
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/sphere.gif)
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/hypersphere.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar5.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar6.gif)
 
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar1.gif)
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar2.gif)
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar3.gif)
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar4.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar5.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar6.gif)
 
 
 ## Contents
