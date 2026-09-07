@@ -10,7 +10,7 @@ An archived Squeak change set demonstrating symbolic expressions, symbolic diffe
 ## Cartesian:
 
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/plane.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/XYZGraph2.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/3d_sin.gif)
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-wave.gif)
 
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/semicircle.gif)
@@ -19,6 +19,12 @@ An archived Squeak change set demonstrating symbolic expressions, symbolic diffe
 
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/sin.gif)
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/sin_transform.gif)
+
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/XYZGraph2.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-not.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-not-transform.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-wave-transform.gif)
+
 
 
 ## Polar:
