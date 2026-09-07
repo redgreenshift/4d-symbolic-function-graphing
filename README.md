@@ -5,7 +5,11 @@
 [![Language: Smalltalk-80](https://img.shields.io/badge/Smalltalk--80-B8DAFD)](https://en.wikipedia.org/wiki/Smalltalk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-An archived [Squeak](https://squeak.org/) change set demonstrating symbolic expressions, symbolic differentiation, N-dimensional functions, transformations, and real-time 4D graphing. The Squeak platform uses a _dialect_ of the [Smalltalk-80 programming language described here](https://wiki.squeak.org/squeak/373).
+An archived Squeak/Smalltalk `change set`—a self-contained collection of Smalltalk code—demonstrating symbolic expression evaluation, symbolic differentiation, N-dimensional functions, transformations, and real-time 4D graphing.
+
+Its expressions can be evaluated numerically using supplied variable values, while its differentiation operations produce new symbolic expressions rather than numeric results.
+
+It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of the [Smalltalk-80 programming language](https://wiki.squeak.org/squeak/373).
 
 ## Cartesian:
 
