@@ -7,7 +7,7 @@
 
 An archived Squeak change set demonstrating symbolic expressions, symbolic differentiation, N-dimensional functions, transformations, and real-time 4D graphing.
 
-![Screenshot of Symbolic Function 4D Graphing Utility](XYZGraph2.gif)
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/XYZGraph2.gif)
 
 ## Contents
 
