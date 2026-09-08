@@ -14,38 +14,83 @@ Its expressions can be evaluated numerically using supplied variable values, whi
 
 It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of the [Smalltalk-80 programming language](https://wiki.squeak.org/squeak/373).
 
-## Cartesian:
-
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/plane.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/3d_sin.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-wave.gif)
-
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/semicircle.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/semicircle_transform.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/cartesian-hypersphere.gif)
-
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/sin.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/sin_transform.gif)
+# Examples
 
 ![Screenshot of Symbolic Function 4D Graphing Utility](assets/XYZGraph2.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-not.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-not-transform.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/sine-wave-transform.gif)
+
+<p><table border="1"><tr><td>Just a plane to illustrate depth perception and axis tilt</td></tr>
+<tr align="center"><td><img src="assets/plane.gif" width="320" height="240"></td></tr>
+<tr><td>z(x,y) = 0</td></tr></table>
+
+<p><table border="1">
+<tr><td>3D Sine curve</td><td>3D polar graph</td></tr>
+<tr><td><img src="assets/3d_sin.gif" width="320" height="240"></td><td><img src="assets/sphere.gif" width="320" height="240"></td></tr>
+<tr><td>z(x,y) = sin(x) + sin(y)</td><td>r(&theta;, &phi;) = 3</td></tr>
+</table>
+
+<p><table border="1"><tr><td>2D Function (in 3d space)</td><td>2D Function + Transform = 3D Graph</td></tr>
+<tr><td><img src="assets/sin.gif" width="320" height="240"></td><td><img src="assets/sin_transform.gif" width="320" height="240"></td></tr>
+<tr><td>y(x) = sin(x)</td><td><code>FunctionTransform</code> rotates it about the x-axis</td></tr>
+<tr><td><img src="assets/semicircle.gif" width="320" height="240"></td><td><img src="assets/semicircle_transform.gif" width="320" height="240"></td></tr>
+<tr><td>y(x) = (25 - x^2)^0.5</td><td><code>FunctionTransform</code> rotates it about the x-axis</td></tr>
+</table>
 
 
 
-## Polar:
+<table bgcolor="#ffffff" border="1">
+   <tr bgcolor="#000000">
+      <td>4D Function</td>
+   <td><img src="assets/sine-wave.gif" width="160" height="120"></td>
+   <td><img src="assets/sine-not.gif" width="160" height="120"></td>
+   <td><img src="assets/polar5.gif" width="160" height="120"></td>
+   </tr>
+<tr>
+   <td>&nbsp;</td>
+   <td>z(x,y,t) = sin(x) + sin(t + y)</td>
+   <td>z(x,y,t) = sin(t + x) + sin(t * y)</td>
+   <td>r(&theta;,&phi;,t) = sin(&phi;) - sin(t)</td>
+</tr>
 
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/sphere.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/hypersphere.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar5.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar6.gif)
+<tr>
+   <td>4D Function + Transform</td>
+   <td><img src="assets/sine-wave-transform.gif" width="160" height="120"></td>
+   <td><img src="assets/sine-not-transform.gif" width="160" height="120"></td>
+   <td><img src="assets/polar6.gif" width="160" height="120"></td>
+</tr>
 
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar1.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar2.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar3.gif)
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/polar4.gif)
+<tr bgcolor="#000000">
+   <td>&nbsp;</td>
+   <td><code>FunctionTransformTwist</code></td>
+   <td><code>FunctionTransformTurn</code></td>
+   <td><code>FunctionTransformTilt</code></td>
+</tr>
+</table>
 
+
+<table bgcolor="#ffffff" border="1">
+<tr bgcolor="#FFFFFF"><td bgcolor="#FFFFFF" colspan="2">Miscellaneous 4D functions</td></tr>
+<tr>
+   <td><img src="assets/cartesian-hypersphere.gif" width="160" height="120"></td>
+   <td><img src="assets/hypersphere.gif" width="160" height="120"></td>
+   <td><img src="assets/polar4.gif" width="160" height="120"></td>
+</tr>
+<tr bgcolor="#000000">
+   <td>z(x,y,t) = (30 - x<sup>2</sup> - y<sup>2</sup> - t<sup>2</sup>)<sup>&frac12;</sup></td>
+   <td>r(&theta;,&phi;,t) = 3</td>
+   <td>r(&theta;,&phi;,t) = (10 sin(t &theta;) * sin(t &phi;))<sup>&frac12;</sup></td>
+</tr>
+
+<tr>
+   <td><img src="assets/polar1.gif" width="160" height="120"></td>
+   <td><img src="assets/polar2.gif" width="160" height="120"></td>
+   <td><img src="assets/polar3.gif" width="160" height="120"></td>
+</tr>
+<tr bgcolor="#000000">
+   <td>r(&theta;,&phi;,t) = &theta;</td>
+   <td>r(&theta;,&phi;,t) = (10 sin(&theta; 2t) * sin(&phi; 2t))<sup>&frac12;</sup></td>
+   <td>r(&theta;,&phi;,t) = (10 sin(t &theta;) * sin(t &phi;))<sup>&frac12;</sup></td>
+</tr>
+</table>
 
 ## Contents
 
