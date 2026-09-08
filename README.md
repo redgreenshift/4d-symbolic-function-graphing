@@ -60,11 +60,17 @@ The change set includes:
 - Function transformations and rotations
 - Real-time graphing of 4D functions
 
-## Historical Context
+## Project History
 
 This project was developed using Squeak 2.8alpha around 2000. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions, but it is expected to work without modification in a Squeak 2.8 environment.
 
 The `.cs` file is a Squeak change set, not C# source code.
+
+### Related Projects
+
+#### Predecessor Projects
+
+[XYZ](https://github.com/redgreenshift/symbolic-function-graphing) 3D Function Graphing directly contributed to 4D Function Graphing, as it the next logical step.
 
 ## Loading the Change Set
 
