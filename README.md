@@ -1,5 +1,5 @@
-[![Previous: XYZ 3D Function Graphing](https://img.shields.io/badge/←_PREV-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/XYZ)
-[![Next: Greenshift](https://img.shields.io/badge/NEXT_→-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/Greenshift)
+[![Previous: XYZ 3D Function Graphing](https://img.shields.io/badge/←_PREV-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/XYZ/blob/main/README.md)
+[![Next: Greenshift](https://img.shields.io/badge/NEXT_→-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/Greenshift/blob/main/README.md)
 
 # 4D Symbolic Function Graphing
 
