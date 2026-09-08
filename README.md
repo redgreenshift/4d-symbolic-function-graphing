@@ -14,9 +14,7 @@ Its expressions can be evaluated numerically using supplied variable values, whi
 
 It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of the [Smalltalk-80 programming language](https://wiki.squeak.org/squeak/373).
 
-# Examples
-
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/XYZGraph2.gif)
+## Examples
 
 <p><table border="1"><tr><td>Just a plane to illustrate depth perception and axis tilt</td></tr>
 <tr align="center"><td><img src="assets/plane.gif" width="320" height="240"></td></tr>
@@ -91,6 +89,9 @@ It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of
    <td>r(&theta;,&phi;,t) = (10 sin(t &theta;) * sin(t &phi;))<sup>&frac12;</sup></td>
 </tr>
 </table>
+
+![Screenshot of Symbolic Function 4D Graphing Utility](assets/XYZGraph2.gif)
+
 
 ## Contents
 
