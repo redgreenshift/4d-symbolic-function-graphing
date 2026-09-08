@@ -16,14 +16,10 @@ It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of
 
 ## Examples
 
-<p><table border="1"><tr><td>Just a plane to illustrate depth perception and axis tilt</td></tr>
-<tr align="center"><td><img src="assets/plane.gif" width="320" height="240"></td></tr>
-<tr><td>z(x,y) = 0</td></tr></table>
-
 <p><table border="1">
-<tr><td>3D Sine curve</td><td>3D polar graph</td></tr>
-<tr><td><img src="assets/3d_sin.gif" width="320" height="240"></td><td><img src="assets/sphere.gif" width="320" height="240"></td></tr>
-<tr><td>z(x,y) = sin(x) + sin(y)</td><td>r(&theta;, &phi;) = 3</td></tr>
+<tr><td>Plane</td><td>3D Sine curve</td><td>3D polar graph</td></tr>
+<tr><td><img src="assets/plane.gif" width="320" height="240"></td><td><img src="assets/3d_sin.gif" width="320" height="240"></td><td><img src="assets/sphere.gif" width="320" height="240"></td></tr>
+<tr><td>z(x,y) = 0</td><td>z(x,y) = sin(x) + sin(y)</td><td>r(&theta;, &phi;) = 3</td></tr>
 </table>
 
 <p><table border="1"><tr><td>2D Function (in 3d space)</td><td>2D Function + Transform = 3D Graph</td></tr>
@@ -64,9 +60,8 @@ It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of
 </tr>
 </table>
 
-
+### Miscellaneous 4D functions
 <table bgcolor="#ffffff" border="1">
-<tr bgcolor="#FFFFFF"><td bgcolor="#FFFFFF" colspan="2">Miscellaneous 4D functions</td></tr>
 <tr>
    <td><img src="assets/cartesian-hypersphere.gif" width="160" height="120"></td>
    <td><img src="assets/hypersphere.gif" width="160" height="120"></td>
@@ -89,8 +84,6 @@ It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of
    <td>z(x,y,t) = (30 - x<sup>2</sup> - y<sup>2</sup> - t<sup>2</sup>)<sup>&frac12;</sup></td>
 </tr>
 </table>
-
-![Screenshot of Symbolic Function 4D Graphing Utility](assets/XYZGraph2.gif)
 
 
 ## Contents
