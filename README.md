@@ -70,7 +70,7 @@ The `.cs` file is a Squeak change set, not C# source code.
 
 #### Predecessor Projects
 
-[XYZ](https://github.com/redgreenshift/symbolic-function-graphing) 3D Function Graphing directly contributed to 4D Function Graphing, as it the next logical step.
+[XYZ](https://github.com/redgreenshift/XYZ) 3D Function Graphing directly contributed to 4D Function Graphing, as it the next logical step.
 
 ## Loading the Change Set
 
