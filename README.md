@@ -70,23 +70,23 @@ It runs on the [Squeak](https://squeak.org/) platform, which uses a _dialect_ of
 <tr>
    <td><img src="assets/cartesian-hypersphere.gif" width="160" height="120"></td>
    <td><img src="assets/hypersphere.gif" width="160" height="120"></td>
-   <td><img src="assets/polar4.gif" width="160" height="120"></td>
+   <td><img src="assets/polar1.gif" width="160" height="120"></td>
 </tr>
 <tr bgcolor="#000000">
-   <td>z(x,y,t) = (30 - x<sup>2</sup> - y<sup>2</sup> - t<sup>2</sup>)<sup>&frac12;</sup></td>
    <td>r(&theta;,&phi;,t) = 3</td>
    <td>r(&theta;,&phi;,t) = (10 sin(t &theta;) * sin(t &phi;))<sup>&frac12;</sup></td>
+   <td>r(&theta;,&phi;,t) = &theta;</td>
 </tr>
 
 <tr>
-   <td><img src="assets/polar1.gif" width="160" height="120"></td>
    <td><img src="assets/polar2.gif" width="160" height="120"></td>
    <td><img src="assets/polar3.gif" width="160" height="120"></td>
+   <td><img src="assets/polar4.gif" width="160" height="120"></td>
 </tr>
 <tr bgcolor="#000000">
-   <td>r(&theta;,&phi;,t) = &theta;</td>
    <td>r(&theta;,&phi;,t) = (10 sin(&theta; 2t) * sin(&phi; 2t))<sup>&frac12;</sup></td>
    <td>r(&theta;,&phi;,t) = (10 sin(t &theta;) * sin(t &phi;))<sup>&frac12;</sup></td>
+   <td>z(x,y,t) = (30 - x<sup>2</sup> - y<sup>2</sup> - t<sup>2</sup>)<sup>&frac12;</sup></td>
 </tr>
 </table>
 
