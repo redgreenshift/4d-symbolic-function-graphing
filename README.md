@@ -115,11 +115,7 @@ The `.cs` file is a Squeak change set, not C# source code.
 
 ### Successor Projects
 
-GREENSHIFT:!TODO
-
-[4D Symbolic Function Graphing](https://github.com/redgreenshift/4d-symbolic-function-graphing) is the direct successor to `XYZ - 3D Graphing Utility`, as the fourth dimension was the next logical step. The original plan was to completely rewrite this program in Visual C++, using DirectX, in 4 dimensions, as a screensaver. However, I ran into complications with trying to design a more robust expression engine that could support symbolic manipulation and evaluation. I took a detour through the Smalltalk-80 programming language, writing this project first.
-
-Then, the direct lineage continued after `4D Symbolic Function Graphing` with [Greenshift](https://github.com/redgreenshift/Greenshift) using everything I learned, and this was the C++ "screensaver" I wanted to write, but by the time I started writing `Greenshift`, I had decided to pivot and create a Winamp visualization (which could theoretically still be used as a screensaver).
+[Greenshift](https://github.com/redgreenshift/Greenshift) is the direct successor to `4D Symbolic Function Graphing`. The original plan was to write a screensaver in Visual C++, using DirectX, in 4 dimensions, as a screensaver. However, I ran into complications when trying to design a more robust expression engine that could support symbolic manipulation and evaluation, so I took a detour through the Smalltalk-80 programming language, writing a 4D graphing utility in Squeak/Smalltalk first. Using what I learned, I was able to complete the robust Expression engine in C++ and decided to make a Winamp visualization instead of a simple "screensaver"
 
 ### Predecessor Projects
 
