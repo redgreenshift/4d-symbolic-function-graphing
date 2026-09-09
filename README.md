@@ -99,16 +99,6 @@ The change set includes:
 - Function transformations and rotations
 - Real-time graphing of 4D functions
 
-## Project History
-
-This project was developed using Squeak 2.8alpha around 2000. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions, but it is expected to work without modification in a Squeak 2.8 environment.
-
-The `.cs` file is a Squeak change set, not C# source code.
-
-### Predecessor Projects
-
-[XYZ - 3D Graphing Utility](https://github.com/redgreenshift/XYZ-3d-graphing-utility) is the direct precursor to `4D Symbolic Function Graphing`, as the fourth dimension is the next logical step, and I wanted to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in XYZ.
-
 ## Loading the Change Set
 
 1. Open the project in a compatible Squeak image.
@@ -116,3 +106,25 @@ The `.cs` file is a Squeak change set, not C# source code.
 
    ```text
    Expression-FunctionNd-FunctionGraph-4DgraphingInRealtime.1.cs
+
+## Project History
+
+This project was developed using Squeak 2.8alpha around 2000. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions, but it is expected to work without modification in a Squeak 2.8 environment.
+
+The `.cs` file is a Squeak change set, not C# source code.
+
+### Successor Projects
+
+GREENSHIFT:!TODO
+
+[4D Symbolic Function Graphing](https://github.com/redgreenshift/4d-symbolic-function-graphing) is the direct successor to `XYZ - 3D Graphing Utility`, as the fourth dimension was the next logical step. The original plan was to completely rewrite this program in Visual C++, using DirectX, in 4 dimensions, as a screensaver. However, I ran into complications with trying to design a more robust expression engine that could support symbolic manipulation and evaluation. I took a detour through the Smalltalk-80 programming language, writing this project first.
+
+Then, the direct lineage continued after `4D Symbolic Function Graphing` with [Greenshift](https://github.com/redgreenshift/Greenshift) using everything I learned, and this was the C++ "screensaver" I wanted to write, but by the time I started writing `Greenshift`, I had decided to pivot and create a Winamp visualization (which could theoretically still be used as a screensaver).
+
+### Predecessor Projects
+
+[XYZ - 3D Graphing Utility](https://github.com/redgreenshift/XYZ-3d-graphing-utility) is the direct precursor to `4D Symbolic Function Graphing`, as the fourth dimension is the next logical step, and I wanted to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in XYZ.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
