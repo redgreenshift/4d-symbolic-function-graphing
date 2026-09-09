@@ -119,7 +119,7 @@ The `.cs` file is a Squeak change set, not C# source code.
 
 ### Predecessor Projects
 
-[XYZ - 3D Graphing Utility](https://github.com/redgreenshift/XYZ-3d-graphing-utility) is the direct precursor to `4D Symbolic Function Graphing`, as the fourth dimension is the next logical step, and I wanted to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in XYZ.
+[XYZ - 3D Graphing Utility](https://github.com/redgreenshift/XYZ-3d-graphing-utility) is the direct precursor to `4D Symbolic Function Graphing`, as the fourth dimension is the next logical step, and I wanted to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in `XYZ`.
 
 
 ## License
