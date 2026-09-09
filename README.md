@@ -1,4 +1,4 @@
-[![Previous: XYZ 3D Function Graphing](https://img.shields.io/badge/←_PREV-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/XYZ/blob/main/README.md)
+[![Previous: XYZ 3D Function Graphing](https://img.shields.io/badge/←_PREV-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/XYZ-3d-graphing-utility/blob/main/README.md)
 [![Next: Greenshift](https://img.shields.io/badge/NEXT_→-gray.svg?style=for-the-badge)](https://github.com/redgreenshift/Greenshift/blob/main/README.md)
 
 # 4D Symbolic Function Graphing
@@ -109,7 +109,7 @@ The `.cs` file is a Squeak change set, not C# source code.
 
 #### Predecessor Projects
 
-[XYZ - 3D Graphing Utility](https://github.com/redgreenshift/XYZ) is the direct precursor to `4D Symbolic Function Graphing`, as the fourth dimension is the next logical step, and I wanted to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in XYZ.
+[XYZ - 3D Graphing Utility](https://github.com/redgreenshift/XYZ-3d-graphing-utility) is the direct precursor to `4D Symbolic Function Graphing`, as the fourth dimension is the next logical step, and I wanted to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in XYZ.
 
 ## Loading the Change Set
 
