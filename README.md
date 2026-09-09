@@ -115,12 +115,12 @@ The `.cs` file is a Squeak change set, not C# source code.
 
 ### Successor Projects
 
-[Greenshift](https://github.com/redgreenshift/Greenshift) is the direct successor to `4D Symbolic Function Graphing`. The original plan was to write a screensaver in Visual C++, using DirectX, in 4 dimensions, as a screensaver. However, I ran into complications when trying to design a more robust expression engine that could support symbolic manipulation and evaluation, so I took a detour through the Smalltalk-80 programming language, writing a 4D graphing utility in Squeak/Smalltalk first. Using what I learned, I was able to complete the robust Expression engine in C++ and decided to make a Winamp visualization instead of a simple "screensaver"
+[`Greenshift`](https://github.com/redgreenshift/Greenshift) is the direct successor to `4D Symbolic Function Graphing`. The original plan was to write a screensaver in Visual C++, using DirectX, in 4 dimensions, as a screensaver. However, I ran into complications when trying to design a more robust expression engine that could support symbolic manipulation and evaluation, so I took a detour through the Smalltalk-80 programming language, writing a 4D graphing utility in Squeak/Smalltalk first. Using what I learned, I was able to complete the robust Expression engine in C++ and decided to make a Winamp visualization instead of a simple "screensaver"
 
 ### Predecessor Projects
 
-[XYZ - 3D Graphing Utility](https://github.com/redgreenshift/XYZ-3d-graphing-utility) is the direct precursor to `4D Symbolic Function Graphing`, as the fourth dimension is the next logical step, and I wanted to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in `XYZ`.
+[`XYZ - 3D Graphing Utility`](https://github.com/redgreenshift/XYZ-3d-graphing-utility) is the direct precursor to `4D Symbolic Function Graphing`, as the fourth dimension is the next logical step, and I wanted to design a more robust expression engine that could support symbolic manipulation and evaluation, which could be much more extensible than the RPN implementation in `XYZ`.
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
