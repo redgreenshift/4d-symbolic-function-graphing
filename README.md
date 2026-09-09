@@ -109,7 +109,7 @@ The `.cs` file is a Squeak change set, not C# source code.
 
 #### Predecessor Projects
 
-[XYZ](https://github.com/redgreenshift/XYZ) 3D Function Graphing Utility directly contributed to 4D Function Graphing, as it's the next logical step.
+[XYZ](https://github.com/redgreenshift/XYZ) 3D Graphing Utility directly contributed to 4D Function Graphing, as it's the next logical step.
 
 ## Loading the Change Set
 
