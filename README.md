@@ -109,7 +109,7 @@ The change set includes:
 
 ## Project History
 
-This project was developed using Squeak 2.8alpha around 2000. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is not under active development. It may require modifications to work with current Squeak versions, but it is expected to work without modification in a Squeak 2.8 environment.
+This project was developed using Squeak 2.8alpha around 2000. It is preserved as an example of exploratory mathematical programming written in Smalltalk-80 and is **not under active development**. It may require modifications to work with current Squeak versions, but it is expected to work without modification in a Squeak 2.8 environment.
 
 The `.cs` file is a Squeak change set, not C# source code.
 
